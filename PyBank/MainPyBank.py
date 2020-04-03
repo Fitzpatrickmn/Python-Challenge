@@ -9,7 +9,7 @@
 import os
 os.chdir("/Users/michellefitzpatrick/Python-Challenge")
 import csv
-csvpath = os.path.join("PyBank", "Homework_03-Python_Instructions_PyBank_Resources_budget_data.csv")
+csvpath = os.path.join("PyBank", "budget_data.csv")
 
 totalmonths = 0
 totalrevenue = 0
