@@ -1,4 +1,4 @@
-# Python-Challenge
+# Python - PyBank & PyPoll
 
 PyBank:
 Python script that returns a summary of the financial analysis. Analysis includes total months included in dataset, total net accrued, average change in Profit/Losses between months, greatest increase in profits (date & amount), and greatest decrease in losses (date & amount). Script prints the analysis to the users' terminal and exports a text file with the results. 
